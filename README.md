@@ -1,6 +1,6 @@
 # Quick Demos of my Favorite Projects 👇  
 ---
-### Personal Portfolio
+## Personal Portfolio
 
 **Tech Stack:** Jekyll, Ruby, HTML/CSS/JS
 
