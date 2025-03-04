@@ -17,5 +17,5 @@
 ---
 ## **My First Projects**
 
-#### My First Landing Page
+#### First Landing Page
 ![landingPage](https://github.com/user-attachments/assets/f7db142f-7c1e-438c-b4ac-42af6661ea5f)
