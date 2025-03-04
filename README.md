@@ -20,4 +20,11 @@
 #### First Landing Page
 ![landingPage](https://github.com/user-attachments/assets/f7db142f-7c1e-438c-b4ac-42af6661ea5f)
 
-### Etch-a-Sketch
+#### Etch-a-Sketch
+![etch-a-sketch](https://github.com/user-attachments/assets/3cbb07ee-5d34-4435-933f-6ef04b780fed)
+
+#### Calculator
+![Calculator](https://github.com/user-attachments/assets/815191cb-d902-4879-9b71-a464b5eba9c6)
+
+#### Random Color Generator
+![color generator](https://github.com/user-attachments/assets/0c72a956-c6ed-4447-bc10-cb8e16e519c2)
