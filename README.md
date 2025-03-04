@@ -10,7 +10,7 @@
 #### Mobile Home Page
 ![phoneHome](https://github.com/user-attachments/assets/cfc1d27c-ee45-42ae-af20-37b399717a20)
 
-## Check out all the Features Yourself!
+## Check out my Projects, Business, and all the Features Yourself!
 
 [Portfolio Site](https://sharpeimq.github.io/Personal-Portfolio/) | [GitHub Repo](https://github.com/SharpeimQ/Personal-Portfolio)
 
@@ -19,3 +19,5 @@
 
 #### First Landing Page
 ![landingPage](https://github.com/user-attachments/assets/f7db142f-7c1e-438c-b4ac-42af6661ea5f)
+
+### Etch-a-Sketch
