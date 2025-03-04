@@ -1,4 +1,4 @@
-# Quick Demos of my Favorite Projects 👇  
+# Quick demos of my favorite projects 👇  
 ---
 ## Personal Portfolio built with Jekflix
 
@@ -10,7 +10,7 @@
 #### **Mobile Home Page** 📱
 ![phoneHome](https://github.com/user-attachments/assets/cfc1d27c-ee45-42ae-af20-37b399717a20)
 
-## Check out the Portfolio Yourself to see all the Features!
+## Check it out yourself to see all the features!
 
 [Portfolio Site](https://sharpeimq.github.io/Personal-Portfolio/) | [GitHub Repo](https://github.com/SharpeimQ/Personal-Portfolio)
 
