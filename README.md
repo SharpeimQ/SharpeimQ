@@ -1,6 +1,6 @@
 # Demos of my Favorite Projects
 ---
-## Personal Portfolio built with Jekflix
+<h2 id="portfolio">Personal Portfolio built with Jekflix</h2>
 
 **Tech Stack:** Jekyll, Ruby, HTML/CSS/JS
 
