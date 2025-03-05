@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="README.md.css">
-
 # Demos of my Favorite Projects
 ---
-## Personal Portfolio built with Jekflix
+## Personal Portfolio built with Jekflix&#8203;
 
 **Tech Stack:** Jekyll, Ruby, HTML/CSS/JS
 
