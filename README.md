@@ -1,4 +1,4 @@
-# Demos of my Favorite Projects
+# 🚀 Demos of my Favorite Projects
 ---
 ## Personal Portfolio built with Jekflix
 
