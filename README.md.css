@@ -1,3 +1,8 @@
-a {
-  text-decoration: none !important;
+.markdown-body h1:hover .anchor, 
+.markdown-body h2:hover .anchor, 
+.markdown-body h3:hover .anchor, 
+.markdown-body h4:hover .anchor, 
+.markdown-body h5:hover .anchor, 
+.markdown-body h6:hover .anchor {
+    display: none !important;
 }
