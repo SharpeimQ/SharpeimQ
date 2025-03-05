@@ -1,3 +1,8 @@
+a {
+  text-decoration: none;
+  box-shadow: none;
+}
+
 # Demos of my Favorite Projects
 ---
 ## Personal Portfolio built with Jekflix
