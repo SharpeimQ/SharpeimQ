@@ -1,4 +1,6 @@
 # Demos of my Favorite Projects
+<span style="font-size: 24px; font-weight: bold;">Demos of my Favorite Projects</span>
+
 ---
 ## Personal Portfolio built with Jekflix
 
