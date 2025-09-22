@@ -23,6 +23,10 @@ All 314 cards will be available to every player as soon as they complete the tut
 
 ## 6. Sigils System - Stat Modifiers [Done]
 
+## 7. 1v1 Gamemode (WIP)
+
+## 8. Cosmetics Pipeline (WIP)
+
 # How?
 ### Low Overhead
 Beginning in April 2025, Feylor's Arena has been a one-man operation led by myself, a college student. My dream is to work on this project full-time and eventually raise funds to find me a crew that can help me bring this vision to life. I've been learning all aspects of game-development, from 3D modeling to backend integration, to understand what's possible, what should be delegated, and how to operate fast with minimal waste.
