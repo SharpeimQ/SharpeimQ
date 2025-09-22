@@ -15,7 +15,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 ## 2. 314 Cards [Done]
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
 
-## 3. 6 Houses 12 Passives [Done]
+## 3. 6 Houses 11 Passives [Done]
 
 ## 4. 6 Elements 3 Choices [Done]
 
