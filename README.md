@@ -61,7 +61,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
     <td align="center" width="33%">
       <u><b>Nethrala</b></u><br/><br/>
       <img width="80" height="80" alt="Nethrala" src="https://github.com/user-attachments/assets/95fb57dd-fec3-4372-b81a-3876b7a7c547" /><br/><br/>
-      The modern Nethrala specialize in a subset of dark magic known as soul magic. They welcome scholars from every land, celebrated for ad
+      The modern Nethrala specialize in a subset of dark magic known as soul magic. They welcome scholars from every land, celebrated for advancing soul magic's vast applications.
     </td>
     <td align="center" width="33%">
       <u><b>Lumen</b></u><br/><br/>
