@@ -4,8 +4,8 @@
 # The Vision
 Feylor’s Arena is a competitive free-to-play card game that rejects the pay-to-win monetization model. Our mission is to deliver fast-paced, strategic, and cinematic battles set in a world rich with lore. We will break away from the current online card game culture that locks competitive play behind a paywall.
 ## Artstyle Snippets
-![showcase1](https://github.com/user-attachments/assets/ff5856e4-1394-4601-a367-3a67cd021d4a) ![showcase2](https://github.com/user-attachments/assets/714dfa05-018b-4dfb-9985-199125fa83c7)
-
+![showcase1](https://github.com/user-attachments/assets/ff5856e4-1394-4601-a367-3a67cd021d4a)![showcase2](https://github.com/user-attachments/assets/714dfa05-018b-4dfb-9985-199125fa83c7)
+![Running](https://github.com/user-attachments/assets/9233dee4-6db1-4a6b-bf2f-b408ca0f46e3)![Night](https://github.com/user-attachments/assets/ad2d80f9-8d41-4a36-b5f7-965527bc0d88)
 
 # MVP Deliverables
 NOTE: All UI and Icons shown are not standardized and are tentative
