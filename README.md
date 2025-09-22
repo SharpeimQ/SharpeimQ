@@ -1,3 +1,14 @@
+<details><summary><b>Table of Contents</b></summary>
+
+- [The Vision](#the-vision)
+- [Artstyle Snippets](#artstyle-snippets)
+- [MVP Deliverables](#mvp-deliverables)
+- [II. The 6 Houses of Feylor](#ii-the-6-houses-of-feylor)
+- [House Showcase Art](#house-showcase-art)
+- [Get Involved](#get-involved)
+
+</details>
+
 # Feylor's Arena [ F2P Competitive Card Game - MVP 2026 ]
 <img width="1530" height="648" alt="wallpaper" src="https://github.com/user-attachments/assets/70992cd9-2fda-4c02-a7ee-929d326947f8"/>
 
@@ -22,6 +33,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 
 ## II. The 6 Houses of Feylor
 *Once upon a time, the Great Mage and her party of five united a divided land under her name, giving rise to the Kingdom of Feylor and its six great houses.*
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -59,6 +71,11 @@ Balance is the foundation of any competitive game. My future team and I will mak
   </tr>
 </table>
 
+### Class Stats
+### Class Passives
+### GUI Info Dump
+
+
 ## III. 314 Cards
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
 <img width="1118" height="381" alt="image" src="https://github.com/user-attachments/assets/359fa64d-8777-42d7-bf42-2478d4fb3688" />
@@ -92,16 +109,9 @@ Every player begins with one starting class but can unlock additional class slot
 ### Battle-Passes
 Seasonal battle passes will offer bonuses such as match point multipliers, limited-time cosmetics, and themed loot crates full of goodies. These passes will be designed to be a great deal for active players.
 
-# Define Your Own Playstyle
-## 314 Cards, 27 Aspects, 15 Sigils, 6 Elements, 6 Houses to choose from!
-
 
  
-
-
-
-
-## [Outdated] Personal Portfolio built with Jekflix - 2025
+# [Outdated] Personal Portfolio built with Jekflix - 2025
 **Tech Stack:** Jekyll, Ruby, HTML/CSS/JS
 
 #### Desktop Home Page
