@@ -8,30 +8,39 @@ Feylor’s Arena is a competitive free-to-play card game that rejects the pay-to
 
 
 # MVP Deliverables
+NOTE: All UI and Icons shown are not standardized and are tentative
 ## 1. Biweekly Balance Patches
 Balance is the foundation of any competitive game. My future team and I will make mistakes, but when they happen, we won’t leave the game in a poor state for long. Regular two-week balance cycles will keep the meta fresh, ensure mistakes are corrected quickly, and uphold the vision that defines Feylor’s Arena.
 
-## 2. 314 Cards
+## 2. 314+ Cards [Done]
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
 
-## 2. 6 Elements
-All cards have an element
+## 3. 6 Houses 12 Passives [Done]
+
+## 4. 6 Elements 3 Choices [Done]
+
+## 5. Aspects [Done]
+
+## 6. Sigils [Done]
 
 # How?
 ### Low Overhead
-Beginning in May 2025, Feylor's Arena has been a one-man operation led by myself, a college student. My dream is to work on this project full-time and eventually raise funds to get me a crew that can help me bring the vision to life. I've been learning all aspects of game-development, from 3D modeling to backend systems, to understand what's possible, what should be delegated, and how to operate with minimal waste.
+Beginning in April 2025, Feylor's Arena has been a one-man operation led by myself, a college student. My dream is to work on this project full-time and eventually raise funds to find me a crew that can help me bring this vision to life. I've been learning all aspects of game-development, from 3D modeling to backend integration, to understand what's possible, what should be delegated, and how to operate fast with minimal waste.
 
-### Cosmetic Driven Model
-Class Skins, Card Skins, Spell Skins, Avatar Cosmetics, and Limited-Time Cosmetics will make every match a cinematic experience. Cosmetics will be designed to feel rewarding and desirable, adding flair without affecting gameplay. I really need an art team!
+### Cosmetic Driven Monetization
+Class Skins, Card Skins, Spell Skins, Avatar Cosmetics, and Limited-Time Cosmetics will make every match a cinematic experience. Cosmetics will be designed to feel rewarding and desirable, adding flair without affecting gameplay.
 
 ### Pay for Faster Variety
-Every player begins with one starting class but can unlock additional class slots to explore new playstyles. These slots can be purchased directly or earned through match points, the in-game currency gained through regular play. This ensures variety is accessible to everyone, whether they choose to grind or spend.
+Every player begins with one starting class but can unlock additional class slots to explore new playstyles. These slots can be purchased directly or earned through match points, the in-game currency gained through regular play. This ensures variety is accessible to everyone, whether they choose to grind or spend. Future classes will be disabled from competitive play for their first patch (2-weeks).
 
 ### Battle-Passes
-Seasonal battle passes will offer extras such as match point multipliers, limited-time cosmetics, and themed loot crates. These passes provide ongoing rewards while keeping the competitive core of the game fair and paywall-free.
+Seasonal battle passes will offer bonuses such as match point multipliers, limited-time cosmetics, and themed loot crates full of goodies. These passes will be designed to be a great deal for active players.
 
 # Define Your Own Playstyle
 ## 314 Cards, 27 Aspects, 15 Sigils, 6 Elements, 6 Houses to choose from!
+
+<img width="951" height="608" alt="image" src="https://github.com/user-attachments/assets/e354deb9-2398-45dd-b33d-47813bf44878" /><img width="948" height="607" alt="image" src="https://github.com/user-attachments/assets/92be923c-1850-408f-9194-a6392c0e13be" />
+ 
 
 
 
