@@ -12,7 +12,7 @@ NOTE: All UI and Icons shown are not standardized and are tentative
 ## 1. Biweekly Balance Patches
 Balance is the foundation of any competitive game. My future team and I will make mistakes, but when they happen, we won’t leave the game in a poor state for long. Regular two-week balance cycles will keep the meta fresh, ensure mistakes are corrected quickly, and uphold the vision that defines Feylor’s Arena.
 
-## 2. 314+ Cards [Done]
+## 2. 314 Cards [Done]
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
 
 ## 3. 6 Houses 12 Passives [Done]
