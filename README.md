@@ -19,9 +19,9 @@ All 314 cards will be available to every player as soon as they complete the tut
 
 ## 4. 6 Elements 3 Choices [Done]
 
-## 5. Aspects [Done]
+## 5. Aspects - Combat Perks [Done]
 
-## 6. Sigils [Done]
+## 6. Sigils - Stat Modifiers [Done]
 
 # How?
 ### Low Overhead
