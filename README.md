@@ -15,23 +15,63 @@ Feylor’s Arena is a competitive free-to-play card game that rejects the pay-to
   </tr>
 </table>
 
-
-
 # MVP Deliverables
 NOTE: All UI and Icons shown are not standardized and are tentative
 ## I. Biweekly Balance Patches
 Balance is the foundation of any competitive game. My future team and I will make mistakes, but when they happen, we won’t leave the game in a poor state for long. Regular two-week balance cycles will keep the meta fresh, ensure mistakes are corrected quickly, and uphold the vision that defines Feylor’s Arena.
 
-## II. 314 Cards [Done]
+## II. The 6 Houses of Feylor
+*Once upon a time, the Great Mage and her party of five united a divided land under her name, giving rise to the Kingdom of Feylor and its six great houses.*
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <u><b>Ignari</b></u><br/><br/>
+      <img width="80" height="80" alt="Ignari" src="https://github.com/user-attachments/assets/328c0cc5-119c-4108-b5ac-b327889fc358" /><br/><br/>
+      Halfbloods of Agni, Hephaestus, and countless fire deities, the Ignari drew from their diverse heritages to forge the modern art of fire magic.
+    </td>
+    <td align="center" width="33%">
+      <u><b>Arachni</b></u><br/><br/>
+      <img width="80" height="80" alt="Arachni" src="https://github.com/user-attachments/assets/c02a63e7-63a3-4f6c-9e0a-fe7dea83b3c7" /><br/><br/>
+      Descendants of a mortal who once challenged Athena, the Arachni can awaken their primordial physiology through Nature magic.
+    </td>
+    <td align="center" width="33%">
+      <u><b>Lunari</b></u><br/><br/>
+      <img width="80" height="80" alt="Lunari" src="https://github.com/user-attachments/assets/61cab13e-4b1d-441b-b776-1464f330f9fa" /><br/><br/>
+      When the Cold Moon rises, heirs to the sea are born. In Feylor, such gifted souls are claimed by the House of Lunari.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <u><b>Feyblood</b></u><br/><br/>
+      <img width="80" height="80" alt="Feyblood" src="https://github.com/user-attachments/assets/bcdb08b2-e1da-4cd9-be80-939967fef530" /><br/><br/>
+      Among Feylor’s descendants, only those who share her gift may bear the title of Feyblood — the transcendent ability to master all magic.
+    </td>
+    <td align="center" width="33%">
+      <u><b>Nethrala</b></u><br/><br/>
+      <img width="80" height="80" alt="Nethrala" src="https://github.com/user-attachments/assets/95fb57dd-fec3-4372-b81a-3876b7a7c547" /><br/><br/>
+      The modern Nethrala specialize in a subset of dark magic known as soul magic. They welcome scholars from every land, celebrated for ad
+    </td>
+    <td align="center" width="33%">
+      <u><b>Lumen</b></u><br/><br/>
+      <img width="80" height="80" alt="Lumen" src="https://github.com/user-attachments/assets/d794a9f7-9b4f-4884-9e11-7b8f1a69d089" /><br/><br/>
+      The Lumen welcome everyone and raise them in the discipline of light. They channel light through sheer skill, invoking miracles with their fist alone.
+    </td>
+  </tr>
+</table>
+
+## III. 314 Cards
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
+<img width="1118" height="381" alt="image" src="https://github.com/user-attachments/assets/359fa64d-8777-42d7-bf42-2478d4fb3688" />
+<img width="734" height="193" alt="image" src="https://github.com/user-attachments/assets/dd13ac06-9d8c-458e-8cc6-ae13071d5404" />
 
-## III. 6 Houses 11 Passives [Done]
 
-## IV. 6 Elements 3 Choices [Done]
+## 
 
-## V. Aspects System - Combat Perks [Done]
+## IV. 6 Elements 3 Choices
 
-## VI. Sigils System - Stat Modifiers [Done]
+## V. Aspects System - Combat Perks
+
+## VI. Sigils System - Stat Modifiers
 
 ## VII. 1v1 Gamemode (WIP)
 
@@ -55,7 +95,7 @@ Seasonal battle passes will offer bonuses such as match point multipliers, limit
 # Define Your Own Playstyle
 ## 314 Cards, 27 Aspects, 15 Sigils, 6 Elements, 6 Houses to choose from!
 
-<img width="951" height="608" alt="image" src="https://github.com/user-attachments/assets/e354deb9-2398-45dd-b33d-47813bf44878" /><img width="948" height="607" alt="image" src="https://github.com/user-attachments/assets/92be923c-1850-408f-9194-a6392c0e13be" />
+
  
 
 
