@@ -19,23 +19,25 @@ Feylor’s Arena is a competitive free-to-play card game that rejects the pay-to
 
 # MVP Deliverables
 NOTE: All UI and Icons shown are not standardized and are tentative
-## 1. Biweekly Balance Patches
+## I. Biweekly Balance Patches
 Balance is the foundation of any competitive game. My future team and I will make mistakes, but when they happen, we won’t leave the game in a poor state for long. Regular two-week balance cycles will keep the meta fresh, ensure mistakes are corrected quickly, and uphold the vision that defines Feylor’s Arena.
 
-## 2. 314 Cards [Done]
+## II. 314 Cards [Done]
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
 
-## 3. 6 Houses 11 Passives [Done]
+## III. 6 Houses 11 Passives [Done]
 
-## 4. 6 Elements 3 Choices [Done]
+## IV. 6 Elements 3 Choices [Done]
 
-## 5. Aspects System - Combat Perks [Done]
+## V. Aspects System - Combat Perks [Done]
 
-## 6. Sigils System - Stat Modifiers [Done]
+## VI. Sigils System - Stat Modifiers [Done]
 
-## 7. 1v1 Gamemode (WIP)
+## VII. 1v1 Gamemode (WIP)
 
-## 8. Cosmetics Pipeline (WIP)
+## VIII. Avatar Customization Pipeline (WIP)
+
+## IX. Cosmetics Pipeline (WIP)
 
 # How?
 ### Low Overhead
