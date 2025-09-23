@@ -72,7 +72,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 </table>
 
 ### Class Passives
-<details><summary><b>Ignari — Hellfire • Backdraft</b></summary>
+<details><summary><b>Ignari</b></summary>
 
 **Hellfire**
 - Fire DoTs: **+25%** damage per active DoT on the enemy.  
@@ -84,7 +84,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
   - Gain **+12.5%** bonus damage per DoT combusted.
 </details>
 
-<details><summary><b>Arachni — Inherit Atrax • Inherit Davus</b></summary>
+<details><summary><b>Arachni</b></summary>
 
 **Inherit Atrax**
 - Nature damage spells gain bonus **flat Nature** damage equal to **0–8%** of enemy max HP (scales with mana cost **0–8**).  
@@ -95,7 +95,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 - You heal for **100%** of the post-mitigated damage you deal with DoTs.
 </details>
 
-<details><summary><b>Lunari — Tidal Rhythm • Lunar Rhythm</b></summary>
+<details><summary><b>Lunari</b></summary>
 
 **Tidal Rhythm** (3-turn cycle)
 - **Turn 1:** Heal **3%** Max HP  
@@ -108,13 +108,13 @@ Balance is the foundation of any competitive game. My future team and I will mak
 - **Turn 3:** Gain **1 Mana**
 </details>
 
-<details><summary><b>Feyblood — Feylor’s Blessing</b></summary>
+<details><summary><b>Feyblood</b></summary>
 
 **Feylor’s Blessing**
 - All elements operate at **full potency**, unaffected by affinity penalties or style-based card limits.
 </details>
 
-<details><summary><b>Nethrala — Soul Rend • Soul Reap</b></summary>
+<details><summary><b>Nethrala</b></summary>
 
 **Soul Rend**
 - **25%** of pre-mitigated **Dark** damage dealt is converted to **True Damage**.  
@@ -126,7 +126,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 - Heal **20%** of post-mitigated damage from other elements dealt.
 </details>
 
-<details><summary><b>Lumen — Miracle • Lumen Flash</b></summary>
+<details><summary><b>Lumen</b></summary>
 
 **Miracle**
 - On **crit (damaging spell):** remove **1** curse, hex, disrupt, and DoT from yourself.  
