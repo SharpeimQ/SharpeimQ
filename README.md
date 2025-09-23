@@ -9,7 +9,7 @@
 
 </details>
 
-# Feylor's Arena [ F2P Competitive Card Game - MVP 2026 ]
+# Feylor's Arena - F2P Competitive Card Game - MVP 2026
 <img width="1530" height="648" alt="wallpaper" src="https://github.com/user-attachments/assets/70992cd9-2fda-4c02-a7ee-929d326947f8"/>
 
 # The Vision
@@ -132,14 +132,14 @@ Balance is the foundation of any competitive game. My future team and I will mak
 - On **crit (damaging spell):** remove **1** curse, hex, disrupt, and DoT from yourself.  
 - On **crit (healing spell):** gain **Miracle Aura** for **3 turns**: **+10%** Damage, **+10%** Pierce, **+10%** Defense.
 
-**Lumen Flash**
-- On **crit (damaging spell):** gain **Flash Overflow Aura** for **3 turns**:  
+**Flash**
+- On **crit (damaging spell):** gain **Flash Overflow Aura** for **3 turns**:
   **+25%** Damage, **+25%** Pierce, **+2%** Max-HP flat damage, **+25%** Crit Multiplier, **+10%** Crit Chance.
 </details>
 
 ### Class Stats
 
-### GUI Info Dump
+### Class Select GUI
 
 
 ## III. 314 Cards
