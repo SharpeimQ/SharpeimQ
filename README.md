@@ -91,7 +91,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 - Other spells gain bonus **flat Nature** damage equal to **0–4%** of enemy max HP (scales with mana spent **0–8**).
 
 **Inherit Davus**
-- Enemies with an active DoT suffer: **−10%** Healing, **−10%** Negation, **−10%** Damage, **−10%** Pierce.  
+- Enemies with an active DoT suffer: **−10%** Healing, **−10%** Defense, **−10%** Damage, **−10%** Pierce.  
 - You heal for **100%** of the post-mitigated damage you deal with DoTs.
 </details>
 
@@ -99,7 +99,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 
 **Tidal Rhythm** (3-turn cycle)
 - **Turn 1:** Heal **3%** Max HP  
-- **Turn 2:** **+10%** Negation, **+25** Flat Negation, **+25** Flat Healing, **+10%** Healing  
+- **Turn 2:** **+10%** Defense, **+25** Flat Defense, **+25** Flat Healing, **+10%** Healing  
 - **Turn 3:** **+10%** Damage, **+25** Flat Damage
 
 **Lunar Rhythm** (3-turn cycle)
@@ -130,7 +130,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 
 **Miracle**
 - On **crit (damaging spell):** remove **1** curse, hex, disrupt, and DoT from yourself.  
-- On **crit (healing spell):** gain **Miracle Aura** for **3 turns**: **+10%** Damage, **+10%** Pierce, **+10%** Negation.
+- On **crit (healing spell):** gain **Miracle Aura** for **3 turns**: **+10%** Damage, **+10%** Pierce, **+10%** Defense.
 
 **Lumen Flash**
 - On **crit (damaging spell):** gain **Flash Overflow Aura** for **3 turns**:  
