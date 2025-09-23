@@ -75,8 +75,8 @@ Balance is the foundation of any competitive game. My future team and I will mak
 <details><summary><b>Ignari</b></summary>
 
 **Hellfire**
-- Fire DoTs: **+25%** damage per active DoT on the enemy.  
-- Other DoTs: **+12.5%** damage per active DoT on the enemy.
+- Fire DoTs gain **+25%** damage per active DoT on the enemy.  
+- Other DoTs gain **+12.5%** damage per active DoT on the enemy.
 
 **Backdraft**
 - When a non-DoT Fire hit lands, combust all active DoTs on the enemy:  
