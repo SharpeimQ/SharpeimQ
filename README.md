@@ -71,8 +71,74 @@ Balance is the foundation of any competitive game. My future team and I will mak
   </tr>
 </table>
 
-### Class Stats
 ### Class Passives
+<details><summary><b>Ignari — Hellfire • Backdraft</b></summary>
+
+**Hellfire**
+- Fire DoTs: **+25%** damage per active DoT on the enemy.  
+- Other DoTs: **+12.5%** damage per active DoT on the enemy.
+
+**Backdraft**
+- When a non-DoT Fire hit lands, combust all active DoTs on the enemy:  
+  - Deal their remaining DoT damage instantly as **Fire** damage.  
+  - Gain **+12.5%** bonus damage per DoT combusted.
+</details>
+
+<details><summary><b>Arachni — Inherit Atrax • Inherit Davus</b></summary>
+
+**Inherit Atrax**
+- Nature damage spells gain bonus **flat Nature** damage equal to **0–8%** of enemy max HP (scales with mana cost **0–8**).  
+- Other spells gain bonus **flat Nature** damage equal to **0–4%** of enemy max HP (scales with mana spent **0–8**).
+
+**Inherit Davus**
+- Enemies with an active DoT suffer: **−10%** Healing, **−10%** Negation, **−10%** Damage, **−10%** Pierce.  
+- You heal for **100%** of the post-mitigated damage you deal with DoTs.
+</details>
+
+<details><summary><b>Lunari — Tidal Rhythm • Lunar Rhythm</b></summary>
+
+**Tidal Rhythm** (3-turn cycle)
+- **Turn 1:** Heal **3%** Max HP  
+- **Turn 2:** **+10%** Negation, **+25** Flat Negation, **+25** Flat Healing, **+10%** Healing  
+- **Turn 3:** **+10%** Damage, **+25** Flat Damage
+
+**Lunar Rhythm** (3-turn cycle)
+- **Turn 1:** **3%** Max HP flat **Water** damage; **+20% Water Pierce**  
+- **Turn 2:** **+20% Water Crit Chance**, **+20% Water Damage**  
+- **Turn 3:** Gain **1 Mana**
+</details>
+
+<details><summary><b>Feyblood — Feylor’s Blessing</b></summary>
+
+**Feylor’s Blessing**
+- All elements operate at **full potency**, unaffected by affinity penalties or style-based card limits.
+</details>
+
+<details><summary><b>Nethrala — Soul Rend • Soul Reap</b></summary>
+
+**Soul Rend**
+- **25%** of pre-mitigated **Dark** damage dealt is converted to **True Damage**.  
+- **12.5%** of pre-mitigated damage from other elements is converted to **True Damage**.  
+- *True Damage is unaffected by defensive modifiers.*
+
+**Soul Reap**
+- Heal **40%** of post-mitigated **Dark** damage dealt.  
+- Heal **20%** of post-mitigated damage from other elements dealt.
+</details>
+
+<details><summary><b>Lumen — Miracle • Lumen Flash</b></summary>
+
+**Miracle**
+- On **crit (damaging spell):** remove **1** curse, hex, disrupt, and DoT from yourself.  
+- On **crit (healing spell):** gain **Miracle Aura** for **3 turns**: **+10%** Damage, **+10%** Pierce, **+10%** Negation.
+
+**Lumen Flash**
+- On **crit (damaging spell):** gain **Flash Overflow Aura** for **3 turns**:  
+  **+25%** Damage, **+25%** Pierce, **+2%** Max-HP flat damage, **+25%** Crit Multiplier, **+10%** Crit Chance.
+</details>
+
+### Class Stats
+
 ### GUI Info Dump
 
 
