@@ -137,9 +137,121 @@ Balance is the foundation of any competitive game. My future team and I will mak
   **+25%** Damage, **+25%** Pierce, **+2%** Max-HP flat damage, **+25%** Crit Multiplier, **+10%** Crit Chance.
 </details>
 
-### Class Stats
+## Class Stats
+<details>
+  <summary><b>Stat Table (Tap to Expand)</b></summary>
+
+  <!-- leave this blank line -->
+
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Class</th>
+        <th align="right">Health</th>
+        <th align="right">Crit&nbsp;%</th>
+        <th align="right">Crit&nbsp;×</th>
+        <th align="right">%&nbsp;Damage</th>
+        <th align="right">+Flat&nbsp;Dmg</th>
+        <th align="right">%&nbsp;Defense</th>
+        <th align="right">+Flat&nbsp;Defense</th>
+        <th align="right">%&nbsp;Heal</th>
+        <th align="right">+Flat&nbsp;Heal</th>
+        <th align="right">Pierce&nbsp;%</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Ignari</td>
+        <td align="right">4000</td>
+        <td align="right">20%</td>
+        <td align="right">170%</td>
+        <td align="right">50%</td>
+        <td align="right">50</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">30%</td>
+      </tr>
+      <tr>
+        <td>Arachni</td>
+        <td align="right">4200</td>
+        <td align="right">20%</td>
+        <td align="right">160%</td>
+        <td align="right">50%</td>
+        <td align="right">50</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">30%</td>
+      </tr>
+      <tr>
+        <td>Lunari</td>
+        <td align="right">5000</td>
+        <td align="right">20%</td>
+        <td align="right">150%</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">70%</td>
+        <td align="right">50</td>
+        <td align="right">50%</td>
+        <td align="right">50</td>
+        <td align="right">10%</td>
+      </tr>
+      <tr>
+        <td>Feyblood</td>
+        <td align="right">4600</td>
+        <td align="right">20%</td>
+        <td align="right">150%</td>
+        <td align="right">50%</td>
+        <td align="right">50</td>
+        <td align="right">70%</td>
+        <td align="right">60</td>
+        <td align="right">50%</td>
+        <td align="right">50</td>
+        <td align="right">10%</td>
+      </tr>
+      <tr>
+        <td>Nethrala</td>
+        <td align="right">4000</td>
+        <td align="right">20%</td>
+        <td align="right">150%</td>
+        <td align="right">50%</td>
+        <td align="right">50</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">35%</td>
+      </tr>
+      <tr>
+        <td>Lumen</td>
+        <td align="right">4600</td>
+        <td align="right">20%</td>
+        <td align="right">150%</td>
+        <td align="right">50%</td>
+        <td align="right">25</td>
+        <td align="right">70%</td>
+        <td align="right">50</td>
+        <td align="right">50%</td>
+        <td align="right">50</td>
+        <td align="right">10%</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 ### Class Select GUI
+<details>
+  <summary><b>GUI Screens (Tap to Expand)</b></summary>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/c06945a2-64f3-44be-ba24-f0c0b201819e" alt="gui1" width="95%">
+    <img src="https://github.com/user-attachments/assets/46e47479-7b01-45db-8b64-50a48a239c2b" alt="gui2" width="95%">
+  </p>
+</details>
+
+
 
 
 ## III. 314 Cards
