@@ -137,7 +137,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
   **+25% Damage**, **+25% Pierce**, **+25% Crit Multiplier**.
 </details>
 
-## Class Stats
+### Class Stats
 <details>
   <summary><b>Stat Table (Tap to Expand)</b></summary>
 
@@ -249,8 +249,14 @@ Balance is the foundation of any competitive game. My future team and I will mak
   </p>
 </details>
 
+## III. The Element System
 
 
+Fire, Water, Nature, Arcane, Dark, Light
+
+### Primary, Secondary, and Tertiary Elements
+
+### Affinity Penalties
 
 ## III. 314 Cards
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
