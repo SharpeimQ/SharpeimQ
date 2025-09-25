@@ -12,7 +12,7 @@
 # Feylor's Arena - F2P Competitive Card Game - MVP 2026
 <img width="1530" height="648" alt="wallpaper" src="https://github.com/user-attachments/assets/70992cd9-2fda-4c02-a7ee-929d326947f8"/>
 
-# The Vision
+# What is FA?
 Feylor’s Arena is a competitive free-to-play card game that rejects the pay-to-win monetization model. Our mission is to deliver fast-paced, strategic, and cinematic battles set in a world rich with lore. We will break away from the current online card game culture that locks competitive play behind a paywall.
 ## Artstyle Snippets
 <table>
