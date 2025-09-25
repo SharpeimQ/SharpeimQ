@@ -72,76 +72,74 @@ Balance is the foundation of any competitive game. My future team and I will mak
 </table>
 
 ### Class Passives
-<details><summary><b>Ignari</b></summary>
+<details><summary><b>Ignari</b> — <code>Hellfire</code> or <code>Backdraft</code></summary>
 
-**Hellfire**
-- Fire DoTs gain **+25%** damage per active DoT on the enemy.  
-- Other DoTs gain **+12.5%** damage per active DoT on the enemy.
+**Hellfire** *(Sustained Damage)*
+- Your **DoT ticks** gain bonus damage per active DoT on the enemy:
+  - **Fire DoTs:** **+25% per active DoT**
+  - **Other DoTs:** **+12.5% per active DoT**
 
-**Backdraft**
-- When a non-DoT Fire hit lands, combust all active DoTs on the enemy:  
-  - Deal their remaining DoT damage instantly as **Fire** damage.  
-  - Gain **+12.5%** bonus damage per DoT combusted.
+**Backdraft** *(Burst Damage)*
+- When a **non-DoT Fire hit** lands, **combust all active DoTs** on the enemy:
+  - Deal their **remaining damage instantly as Fire** (the **combust packet**).
+  - Combust packet gets **+12.5% damage per DoT** combusted.
 </details>
 
-<details><summary><b>Arachni</b></summary>
+<details><summary><b>Arachni</b> — <code>Inherit Atrax</code> or <code>Inherit Davus</code></summary>
 
-**Inherit Atrax**
-- Nature damage spells gain bonus **flat Nature** damage equal to **0–8%** of enemy max HP (scales with mana cost **0–8**).  
-- Other spells gain bonus **flat Nature** damage equal to **0–4%** of enemy max HP (scales with mana spent **0–8**).
+**Inherit Atrax** *(Burst Damage)*
+- Adds **bonus on-hit Nature damage** that scales with mana:
+  - **Nature spells:** **0–8% enemy Max HP** as on-hit **Nature** *(mana cost 0–8)*
+  - **Other spells:** **0–4% enemy Max HP** as on-hit **Nature** *(mana spent 0–8)*
+- *This is a separate Nature-tagged hit, not “flat” added to base.*
 
-**Inherit Davus**
-- Enemies with an active DoT suffer: **−10%** Healing, **−10%** Defense, **−10%** Damage, **−10%** Pierce.  
-- You heal for **100%** of the post-mitigated damage you deal with DoTs.
+**Inherit Davus** *(Attrition)*
+- Enemies with an active DoT suffer: **−10% Healing**, **−10% Defense**, **−10% Damage**, **−10% Pierce**.
+- You **heal 100%** of **post-mitigated DoT damage** you deal.
 </details>
 
-<details><summary><b>Lunari</b></summary>
+<details><summary><b>Lunari</b> — <code>Tidal Rhythm</code> or <code>Lunar Rhythm</code></summary>
 
-**Tidal Rhythm** (3-turn cycle)
-- **Turn 1:** Heal **3%** Max HP  
-- **Turn 2:** **+10%** Defense, **+25** Flat Defense, **+25** Flat Healing, **+10%** Healing  
-- **Turn 3:** **+10%** Damage, **+25** Flat Damage
+**Tidal Rhythm** *(Control; 3-turn cycle)*
+- **T1:** Heal **3% Max HP**
+- **T2:** **+10% Defense**, **+25 Flat Defense**, **+10% Healing**, **+25 Flat Healing**
+- **T3:** **+10% Damage**, **+25 Flat Damage**
 
-**Lunar Rhythm** (3-turn cycle)
-- **Turn 1:** **3%** Max HP flat **Water** damage; **+20% Water Pierce**  
-- **Turn 2:** **+20% Water Crit Chance**, **+20% Water Damage**  
-- **Turn 3:** Gain **1 Mana**
+**Lunar Rhythm** *(High Tempo; 3-turn cycle)*
+- **T1:** **+3% Max HP as Water flat damage**, **+20% Water Pierce**
+- **T2:** **+20% Water Damage**, **+20% Water Crit Chance**
+- **T3:** Gain **1 Mana**
 </details>
 
-<details><summary><b>Feyblood</b></summary>
+<details><summary><b>Feyblood</b> — <code>Feylor’s Blessing</code></summary>
 
-**Feylor’s Blessing**
-- All elements operate at **full potency**, unaffected by affinity penalties or style-based card limits.
+**Feylor’s Blessing** *(Adapt)*
+- All elements operate at **full potency**, unaffected by **affinity penalties** and **class-based card limits**.
 </details>
 
-<details><summary><b>Nethrala</b></summary>
+<details><summary><b>Nethrala</b> — <code>Soul Rend</code> or <code>Soul Reap</code></summary>
 
-**Soul Rend**
-- **25%** of pre-mitigated **Dark** damage dealt is converted to **True Damage**.  
-- **12.5%** of pre-mitigated damage from other elements is converted to **True Damage**.  
-- *True Damage is unaffected by defensive modifiers.*
+**Soul Rend** *(Burst Damage)*
+- Convert **25%** of pre-mitigated **Dark** damage and **12.5%** of pre-mitigated **Other** damage into **True Damage** (unaffected by defense).
 
-**Soul Reap**
-- Heal **40%** of post-mitigated **Dark** damage dealt.  
-- Heal **20%** of post-mitigated damage from other elements dealt.
+**Soul Reap** *(Attrition)*
+- Heal **40%** of post-mitigated **Dark** damage dealt and **20%** of post-mitigated **Other** damage dealt.
 </details>
 
-<details><summary><b>Lumen</b></summary>
+<details><summary><b>Lumen</b> — <code>Miracle</code> or <code>Flash</code></summary>
 
-**Miracle**
-- On **crit (damaging spell):** remove **1** curse, hex, disrupt, and DoT from yourself.  
-- On **crit (healing spell):** gain **Miracle Aura** for **3 turns**: **+10%** Damage, **+10%** Pierce, **+10%** Defense.
+**Miracle** *(Control)*
+- On **crit (damage):** remove **1** **Curse**, **Hex**, and **Disrupt** from yourself.
+- On **crit (heal):** gain **Miracle Aura** **3 turns** (**3-turn CD**): **+10% Damage**, **+10% Pierce**, **+10% Defense**.
 
-**Flash**
-- On **crit (damaging spell):** gain **Flash Overflow Aura** for **3 turns**:
-  **+25%** Damage, **+25%** Pierce, **+2%** Max-HP flat damage, **+25%** Crit Multiplier, **+10%** Crit Chance.
+**Flash** *(High Tempo)*
+- On **crit (damage):** gain **Flash Aura** **3 turns** (**3-turn CD**):  
+  **+25% Damage**, **+25% Pierce**, **+25% Crit Multiplier**.
 </details>
 
 ## Class Stats
 <details>
   <summary><b>Stat Table (Tap to Expand)</b></summary>
-
-  <!-- leave this blank line -->
 
   <table>
     <thead>
