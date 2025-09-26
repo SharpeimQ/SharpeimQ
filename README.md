@@ -140,105 +140,33 @@ Balance is the foundation of any competitive game. My future team and I will mak
 ### Class Stats
 <details>
   <summary><b>Stat Table (Tap to Expand)</b></summary>
-
   <table>
     <thead>
       <tr>
-        <th align="left">Class</th>
-        <th align="right">Health</th>
-        <th align="right">Crit&nbsp;%</th>
-        <th align="right">Crit&nbsp;×</th>
-        <th align="right">%&nbsp;Damage</th>
-        <th align="right">+Flat&nbsp;Dmg</th>
-        <th align="right">%&nbsp;Defense</th>
-        <th align="right">+Flat&nbsp;Defense</th>
-        <th align="right">%&nbsp;Heal</th>
-        <th align="right">+Flat&nbsp;Heal</th>
-        <th align="right">Pierce&nbsp;%</th>
+        <th align="left">STAT</th>
+        <th align="right">IGNARI</th>
+        <th align="right">ARACHNI</th>
+        <th align="right">LUNARI</th>
+        <th align="right">FEYBLOOD</th>
+        <th align="right">NETHRALA</th>
+        <th align="right">LUMEN</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>Ignari</td>
-        <td align="right">4000</td>
-        <td align="right">20%</td>
-        <td align="right">170%</td>
-        <td align="right">50%</td>
-        <td align="right">50</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">30%</td>
-      </tr>
-      <tr>
-        <td>Arachni</td>
-        <td align="right">4200</td>
-        <td align="right">20%</td>
-        <td align="right">160%</td>
-        <td align="right">50%</td>
-        <td align="right">50</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">30%</td>
-      </tr>
-      <tr>
-        <td>Lunari</td>
-        <td align="right">5000</td>
-        <td align="right">20%</td>
-        <td align="right">150%</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">70%</td>
-        <td align="right">50</td>
-        <td align="right">50%</td>
-        <td align="right">50</td>
-        <td align="right">10%</td>
-      </tr>
-      <tr>
-        <td>Feyblood</td>
-        <td align="right">4600</td>
-        <td align="right">20%</td>
-        <td align="right">150%</td>
-        <td align="right">50%</td>
-        <td align="right">50</td>
-        <td align="right">70%</td>
-        <td align="right">60</td>
-        <td align="right">50%</td>
-        <td align="right">50</td>
-        <td align="right">10%</td>
-      </tr>
-      <tr>
-        <td>Nethrala</td>
-        <td align="right">4000</td>
-        <td align="right">20%</td>
-        <td align="right">150%</td>
-        <td align="right">50%</td>
-        <td align="right">50</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">35%</td>
-      </tr>
-      <tr>
-        <td>Lumen</td>
-        <td align="right">4600</td>
-        <td align="right">20%</td>
-        <td align="right">150%</td>
-        <td align="right">50%</td>
-        <td align="right">25</td>
-        <td align="right">70%</td>
-        <td align="right">50</td>
-        <td align="right">50%</td>
-        <td align="right">50</td>
-        <td align="right">10%</td>
-      </tr>
+      <tr><td>HP</td><td align="right">4000</td><td align="right">4200</td><td align="right">5000</td><td align="right">4600</td><td align="right">4000</td><td align="right">4600</td></tr>
+      <tr><td>CRIT%</td><td align="right">20%</td><td align="right">20%</td><td align="right">20%</td><td align="right">20%</td><td align="right">20%</td><td align="right">20%</td></tr>
+      <tr><td>CRITX</td><td align="right">170%</td><td align="right">160%</td><td align="right">150%</td><td align="right">150%</td><td align="right">150%</td><td align="right">150%</td></tr>
+      <tr><td>DMG%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td></tr>
+      <tr><td>DMG+</td><td align="right">50</td><td align="right">50</td><td align="right">25</td><td align="right">50</td><td align="right">50</td><td align="right">25</td></tr>
+      <tr><td>DEF%</td><td align="right">50%</td><td align="right">50%</td><td align="right">70%</td><td align="right">70%</td><td align="right">50%</td><td align="right">70%</td></tr>
+      <tr><td>DEF+</td><td align="right">25</td><td align="right">25</td><td align="right">50</td><td align="right">60</td><td align="right">25</td><td align="right">50</td></tr>
+      <tr><td>HEAL%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td><td align="right">50%</td></tr>
+      <tr><td>HEAL+</td><td align="right">25</td><td align="right">25</td><td align="right">50</td><td align="right">50</td><td align="right">25</td><td align="right">50</td></tr>
+      <tr><td>PIERCE%</td><td align="right">30%</td><td align="right">30%</td><td align="right">10%</td><td align="right">10%</td><td align="right">35%</td><td align="right">10%</td></tr>
     </tbody>
   </table>
 </details>
+
 
 ### Class Select GUI
 <details>
@@ -250,7 +178,7 @@ Balance is the foundation of any competitive game. My future team and I will mak
 </details>
 
 ## III. The Element System
-
+### Rules
 
 Fire, Water, Nature, Arcane, Dark, Light
 
@@ -258,19 +186,30 @@ Fire, Water, Nature, Arcane, Dark, Light
 
 ### Affinity Penalties
 
-## III. 314 Cards
+## IV. The Card System
 All 314 cards will be available to every player as soon as they complete the tutorial. Cards are tools for expressing your playstyle. Future cards will NEVER be placed behind a paywall.
+
+### Card Types
+
+### Deck Builder
+
+### Deck Builder Beta Preview
 <img width="1118" height="381" alt="image" src="https://github.com/user-attachments/assets/359fa64d-8777-42d7-bf42-2478d4fb3688" />
 <img width="734" height="193" alt="image" src="https://github.com/user-attachments/assets/dd13ac06-9d8c-458e-8cc6-ae13071d5404" />
 
-
-## 
-
-## IV. 6 Elements 3 Choices
-
 ## V. Aspects System - Combat Perks
+### Rules
+### Arms
+### Aegis
+### Tactics
 
 ## VI. Sigils System - Stat Modifiers
+### Rules
+### Force
+### Resist
+### Hope
+### Sustain
+### Adapt
 
 ## VII. 1v1 Gamemode (WIP)
 
